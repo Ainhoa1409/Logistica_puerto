@@ -1,0 +1,14 @@
+ .tooltip {
+   position: absolute;
+    background: none repeat scroll 0 0 lightblue;
+    background-color: white;
+    border: solid;
+    border-width: 2px;
+    border-radius: 4px;
+    box-shadow: -2px 2px 10px #888888;
+    font: 12px sans-serif;
+    padding: 8px;
+    text-align: center;
+    color: #234A11;
+    border-color: #234A11;
+
